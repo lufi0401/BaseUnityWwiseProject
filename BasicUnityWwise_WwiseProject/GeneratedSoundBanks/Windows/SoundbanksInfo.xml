@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\workspace\201907_Talk\repo\test\BasicUnityWwise\BasicUnityWwise_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\workspace\201907_Talk\repo\test\BasicUnityWwise\BasicUnityWwise_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\workspace\201907_Talk\repo\test\BasicUnityWwise\BasicUnityWwise_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\workspace\201907_Talk\repo\test\BasicUnityWwise\BasicUnityWwise_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3157003241" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Test</ObjectPath>
+			<ShortName>Test</ShortName>
+			<Path>Test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2258191254" Name="Play_TestInput" ObjectPath="\Events\Default Work Unit\Play_TestInput"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

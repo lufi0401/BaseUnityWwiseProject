@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2258191254	Play_TestInput			\Default Work Unit\Play_TestInput	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	747710638	Wwise Audio Input	Wwise Audio Input		\Actor-Mixer Hierarchy\Default Work Unit\TestInput\Wwise Audio Input	
+
